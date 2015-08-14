@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/what_is_deathcolo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/privilege1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/privilege2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/results1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/results2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/mad1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/mad2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/last/</loc>
+  </url>
+  
+</urlset>
