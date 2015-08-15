@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://portal.deathcolo.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/what_is_deathcolo/</loc>
+    <loc>http://portal.deathcolo.com/what_is_deathcolo/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/privilege1/</loc>
+    <loc>http://portal.deathcolo.com/privilege1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/privilege2/</loc>
+    <loc>http://portal.deathcolo.com/privilege2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/results1/</loc>
+    <loc>http://portal.deathcolo.com/results1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/results2/</loc>
+    <loc>http://portal.deathcolo.com/results2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/mad1/</loc>
+    <loc>http://portal.deathcolo.com/mad1/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/mad2/</loc>
+    <loc>http://portal.deathcolo.com/mad2/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/last/</loc>
+    <loc>http://portal.deathcolo.com/last/</loc>
   </url>
   
 </urlset>
